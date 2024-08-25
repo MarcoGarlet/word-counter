@@ -12,10 +12,11 @@ Before you begin, ensure you have the following installed:
 
 ## Getting Started
 
-### 1. Navigate to the project root directory
+### 1. Clone the repository
 
 ```bash
-cd mgarlet-chall
+git clone https://github.com/MarcoGarlet/word-counter.git
+cd word-counter
 ```
 
 ### 2. Install dependencies
